@@ -1,0 +1,263 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;  
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+span, a{
+    display: inline-block;
+}
+.hammasi{
+    background-color: black;
+    max-width: 1500px;
+    margin: 15px auto;
+    align-items: center;
+}
+.a{
+    color: white;
+    text-decoration: none;
+    margin: 55px;
+}
+.linklar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 45px;
+    align-items: center;
+}
+.ab{
+    text-decoration: none;
+    color: yellowgreen;
+    margin: 55px;
+    
+}
+.p{
+    color: white;
+    width: 40%;
+    margin: auto;
+   
+}
+.test{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 45px;
+    background-color: red;
+    margin: auto;
+    margin: 20px 0 30px;
+}
+
+.btn{
+    padding: 15px;
+    background-color: yellowgreen;
+    color: white;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+.df{
+    margin-top: 15px;
+}
+.xv{
+    color: white;
+}
+.rf{
+    margin-left: 105px;
+}
+.dm{
+   margin-left: 105px;
+   color: white;
+}
+.m{
+  margin: 10px;
+}
+.h3{
+    color: white;
+    width: 50%;
+    margin-left: 95px;
+    font-size: 35px;
+}
+.p1{ 
+    color: white;
+    width: 50%;
+    margin-top: 15px;
+    margin-left: 95px;
+    font-size: 25px;
+}
+.h5{
+    color: white;
+    margin-bottom: 25px;
+    margin-top: 15px;
+    width: 100%;
+}
+.p5{
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+}
+.divc{
+    background-color: rgba(0, 0, 255, 0.438);
+    width: 30%;
+    text-align: center;
+}
+.cm{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 100px;
+}
+.rasm{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 25px;
+    
+}
+.ric{
+    color: white;
+    margin-left: 95px; 
+    margin-top: 25px;
+}
+.u{
+    color: white;
+    width: 30%;
+}
+.qm{
+    margin-bottom: 15px;
+}
+.itt{
+    margin: 15px;
+}
+.h9{
+    color: white;
+}
+.p9{
+    color: rgba(255, 255, 255, 0.479);
+    width: 400px;
+    padding-top: 15px;
+}
+.bl{
+    border-radius: 15px;
+    background-color: red;
+    padding: 15px;
+    margin-top: 25px;
+    font-size: 25px;
+}
+.net{
+    margin-left: 105px;
+    margin-top: 105px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.of{
+    width: 50%;
+}
+.dit{
+    width: 50%;
+}
+.index{
+    background-color: blue;
+    width: 30%;
+    text-align: center;
+    border-radius: 15px;
+}
+.ir{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 45px;
+}
+.lir{
+    margin-top: 25px;
+    font-size: 20px;
+}
+.bll{
+    color: white;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.836);
+    padding: 10px;
+    margin-top: 25px;
+    font-size: 25px;
+}
+.dz{
+   margin-top: 15px;
+}
+.h6{
+    margin-top: 45px;
+    color: white;
+}
+.p6{
+    margin-top: 45px;
+    color: white;
+}
+.fer{
+    margin-left: 55px;
+    font-size: 25px;
+    margin-top: 45px;
+}
+.py{
+    color: white;
+    margin-top: 55px;
+    margin-left: 45px;
+}
+.ri{
+    margin: 15px;
+    margin-top: 45px;
+}
+
+
+
+
+
+
+
+
+
+@media(max-width:315px) {
+    .lin {
+        width: 100%;
+    }
+    .lins{
+        width: 100%;
+    }
+    .it{
+       margin: auto;
+       text-align: center;
+    }
+    .ae{
+        width: 100%;
+        
+    }
+    .d{
+        order: -1;
+        margin-bottom: 25px;
+    }
+    .dm{
+        margin: 25px;
+    }
+    .cm{
+        width: 100%;
+    }
+    .divc{
+        width: 100%;
+        text-align: center;
+        padding: 0;
+
+    }
+    .qm{
+        width: 100%;
+    }
+    .u{
+        margin-right: 75px;
+    }
+    .itt{
+        width: 100%;
+        align-items: center;
+        margin-right: 75px;
+        align-items: center;
+    }
+}
